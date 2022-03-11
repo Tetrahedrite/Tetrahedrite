@@ -15,8 +15,9 @@ I started learning programming since 2012, and I will keep learning until the da
 
 ### Where do you work? or have been before?
 
-- September 2017 ~ Present: [WSA(Woosung Autocon)](http://www.woosungautocon.com/) as electric engineer.  
+- September 2017 ~ January 2022: [WSA(Woosung Autocon)](http://www.woosungautocon.com/) as electric engineer.  
 \(Every Korean men have to serve in the military for 18 months. Alternatively, We can work as a **Skilled Industrial Personnel** for 34 months!)
+- March 2022 ~ Present: [WSA DT Center](http://www.woosungautocon.com/) as electric engineer.  
 
 ### Some information about me:
 - Learning about web back-end programming. (Spring Boot and JPA)
