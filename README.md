@@ -18,12 +18,14 @@ I started learning programming since 2012, and I will keep learning until the da
 - September 2017 ~ January 2022: [WSA(Woosung Autocon)](http://www.woosungautocon.com/) as electric engineer.  
 \(Every Korean men have to serve in the military for 18 months. Alternatively, We can work as a **Skilled Industrial Personnel** for 34 months!)
 - March 2022 ~ November 2022: [WSA DT Center](http://www.woosungautocon.com/) as electric engineer.  
-- December 2022 ~ Present: Learning about web backend programming, DB modeling, Virtualization / Container technology
+- December 2022 ~ June 2023: Learning about web backend programming, DB modeling, Virtualization / Container technology
+- July 2023 ~ Present: [Gridwiz] as embedded software engineer.
 
 ### Some information about me:
 - Learning about web backend programming. (Spring Boot and JPA)
 - Play some video games! (LoL, R6S, Pump It Up, Minecraft; Modded Only!)
 - Interested in electrical, electronic and embedded systems.
+- Also interested in DevOps and Infrastructure, that can integrate their code and make people engineering easily and happily :)
 
 ### Certificated
 - [Microsoft Technology Associate](https://www.credly.com/badges/02d2c708-b03c-4b4b-b73a-e398e9059c98)  
