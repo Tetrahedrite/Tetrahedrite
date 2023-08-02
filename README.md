@@ -19,7 +19,7 @@ I started learning programming since 2012, and I will keep learning until the da
 \(Every Korean men have to serve in the military for 18 months. Alternatively, We can work as a **Skilled Industrial Personnel** for 34 months!)
 - March 2022 ~ November 2022: [WSA DT Center](http://www.woosungautocon.com/) as electric engineer.  
 - December 2022 ~ June 2023: Learning about web backend programming, DB modeling, Virtualization / Container technology
-- July 2023 ~ Present: [Gridwiz] as embedded software engineer.
+- July 2023 ~ Present: [Gridwiz](https://gridwiz.com/) as embedded software engineer.
 
 ### Some information about me:
 - Learning about web backend programming. (Spring Boot and JPA)
